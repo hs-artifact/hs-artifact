@@ -36,13 +36,13 @@ That gap is where I work. Across **an international oil major, national upstream
 whoami:
   name: Hendro S.
   studio: hs-artifact
-  role: [Data, Digital Transformation, Digital Operations]
+  role: [Senior Data Engineer, Petroleum Data Analyst, Digitalization Manager]
   domains: [Oil & Gas, Mining, Industrial OT/IT]
   experience_years: 15+
   philosophy: "fit-for-purpose > feature-rich"
   success_metric: "adopted in the field, not just deployed"
   runs_on: 24x7, 3 shifts, every site
-  open_to: [Indonesia, Malaysia, Qatar]
+  open_to: [Indonesia, Malaysia, Middle East]
 ```
 
 ```mermaid
@@ -117,7 +117,7 @@ flowchart LR
 
 **Frameworks & practice:** COBIT 2019 · ADKAR Change Management · Stakeholder Mapping (Power/Interest) · Scrum / Product Ownership · Requirements & Acceptance Engineering · Vendor & Managed-Service Governance · Regulatory Compliance
 
-**Currently sharpening:** Data Governance · PostGIS · MQTT · API integration · AI-assisted app building
+**Currently sharpening:** Hydrocarbon accounting & production data (allocation, PPDM, PRODML) · PostgreSQL · Data Governance · PostGIS · MQTT · API integration
 
 ---
 
@@ -147,6 +147,7 @@ More anonymised **industrial use cases** follow across the three pillars: data q
 
 <p align="center">
   <i>"If it doesn't work at 3 AM on night shift, it doesn't work."</i><br/><br/>
-  <b>Open to:</b> Data Governance · Digital Transformation · Digital Operations · Industrial Data<br/>
-  📍 Indonesia · Malaysia · Qatar
+  <b>Open to:</b> Senior Data Engineer (Oil &amp; Gas) · Petroleum / Hydrocarbon Data Analyst · Digitalization Manager · Data Governance<br/>
+  📍 Indonesia · Malaysia · Middle East<br/><br/>
+  <a href="mailto:hendro.sutrisno@outlook.com">hendro.sutrisno@outlook.com</a>
 </p>
