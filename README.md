@@ -131,7 +131,13 @@ flowchart LR
 
 ### 📂 On This Profile
 
-Anonymised **industrial use cases** across the three pillars: data quality and governance, transformation playbooks, and digital-operations tooling, each written as **problem → approach → outcome**. New ones land every few weeks. ⭐ Star or watch to follow along.
+#### 🏭 Featured · [FieldTrust](https://github.com/hs-artifact/fieldtrust) · [▶ Live demo](https://hs-artifact.github.io/fieldtrust/)
+
+An **operational data trust platform** for oil & gas and mining: one working product across all three pillars. Contract-driven medallion pipeline, data quality and governance, 24×7 digital operations, requirement → acceptance → evidence stage gates, and adoption tracked against data trust. Synthetic data, two domain packs (gas field and open-pit mine).
+
+`Python` · `SQL` · `YAML data contracts` · `JavaScript + SVG` · `GitHub Actions`
+
+More anonymised **industrial use cases** follow across the three pillars: data quality and governance, transformation playbooks, and digital-operations tooling, each written as **problem → approach → outcome**. New ones land every few weeks. ⭐ Star or watch to follow along.
 
 ---
 
