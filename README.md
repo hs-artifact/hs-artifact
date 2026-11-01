@@ -133,9 +133,13 @@ flowchart LR
 
 #### 🏭 Featured · [FieldTrust](https://github.com/hs-artifact/fieldtrust) · [▶ Live demo](https://hs-artifact.github.io/fieldtrust/)
 
-An **operational data trust platform** for oil & gas and mining: one working product across all three pillars. Contract-driven medallion pipeline, data quality and governance, 24×7 digital operations, requirement → acceptance → evidence stage gates, and adoption tracked against data trust. Synthetic data, two domain packs (gas field and open-pit mine).
+<a href="https://hs-artifact.github.io/fieldtrust/#value-chain"><img src="https://raw.githubusercontent.com/hs-artifact/fieldtrust/main/docs/img/value-chain-night.gif" alt="FieldTrust value chain: reservoir to LNG vessel, each stage mapped to its data, with live reconciliation checks" width="100%"></a>
 
-`Python` · `SQL` · `YAML data contracts` · `JavaScript + SVG` · `GitHub Actions`
+An **operational data trust platform** for oil & gas and mining: one working product across all three pillars. It maps the physical value chain (reservoir → LNG vessel, pit → shipment) to the data each stage produces, who consumes it and where trust breaks, then proves it with a contract-driven medallion pipeline, live reconciliation checks with the money at stake, 24×7 digital operations, requirement → acceptance → evidence stage gates, and adoption tracked against data trust. Synthetic data, two domain packs (gas field and open-pit mine), day and night shift modes.
+
+[![Tests](https://github.com/hs-artifact/fieldtrust/actions/workflows/ci.yml/badge.svg)](https://github.com/hs-artifact/fieldtrust/actions/workflows/ci.yml) [![Latest release](https://img.shields.io/github/v/release/hs-artifact/fieldtrust?style=flat-square&color=e0650b)](https://github.com/hs-artifact/fieldtrust/releases/latest)
+
+`Python` · `SQL` · `pytest` · `YAML data contracts` · `JavaScript + SVG` · `GitHub Actions`
 
 More anonymised **industrial use cases** follow across the three pillars: data quality and governance, transformation playbooks, and digital-operations tooling, each written as **problem → approach → outcome**. New ones land every few weeks. ⭐ Star or watch to follow along.
 
