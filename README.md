@@ -1,6 +1,6 @@
 ## Hendro Sutrisno
 
-Industrial data and digitalization for oil & gas and mining. Fifteen years between operations and technology, at an international oil major, national upstream operators and a large open-pit coal mine. Based in Balikpapan, Indonesia.
+Industrial data and digitalization for oil & gas and mining. Fifteen years between operations and technology, at an international oil major, national upstream operators and a large open-pit coal mine. Based in Balikpapan, East Kalimantan, Indonesia.
 
 Most digital programmes in heavy industry don't fail on technology. They fail on data nobody trusts, ownership nobody holds, and systems the site never accepts. I work in that gap: turning operational problems into data requirements, governance, acceptance criteria and 24×7 run models, then staying with vendors and engineering teams until the result holds up on night shift.
 
